@@ -1,5 +1,4 @@
-<pre>
-
+<pre style="font-family: 'Courier New', monospace; line-height: 1.3; padding: 10px;">
 i like windows internals, i have an obsession with breaking software, 
 i'm also interested in the jvm, and i am familiar with hypervisor development 
 
@@ -13,5 +12,4 @@ i am experienced with
 - nixos/nix/
 - linux/windows/mac
 - fullstack web devel
-
 </pre>
