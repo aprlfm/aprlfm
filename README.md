@@ -1,5 +1,4 @@
 <pre>
-aprl.fm / april
 
 i like windows internals, i have an obsession with breaking software, 
 i'm also interested in the jvm, and i am familiar with hypervisor development 
